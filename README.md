@@ -1,12 +1,12 @@
 <h1 align='center'>
-Hi there, I'm Fredrik 👋:smile:
+Hi there 😄👋
 </h1>
 <p align='center'>
+<b>I'm Fredrik, a Senior QA & Test Automation Lead from Malmö, Sweden.</b>
+<br /><br />
 <a href="https://www.linkedin.com/in/fredrikgiang/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br /><br />
-<b>A technical QA Lead from Malmö, Sweden.</b>
 </p>
 <!--
 **fredrikgiang/fredrikgiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
